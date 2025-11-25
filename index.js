@@ -16,7 +16,7 @@ app.use("/api/profile", profileRoutes);
 app.use("/api/tasks", tasksRoutes);
 
 app.use((err, req, res, next) => {
-  console.error(err);
+  console.error(err)
   res
     .status(err.status || 500)
     .json({ message: err.message || "Server Error" });
