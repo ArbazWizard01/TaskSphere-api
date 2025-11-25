@@ -142,7 +142,8 @@ http://localhost:5000
 ## 📂 Postman Collection
 
 You can import the Postman collection to test all API routes.
-*(If you upload one, link it here.)*
+You can access the Postman collection here:
+[Postman Collection](https://arbazwizard01-8499235.postman.co/workspace/Arbaz-Ansari's-Workspace~725084f8-c716-400a-877e-0879615a166b/collection/49867849-fc47f4d6-2d9c-4329-b6a9-513c5fe3363b?action=share&source=copy-link&creator=49867849)*
 
 ---
 
